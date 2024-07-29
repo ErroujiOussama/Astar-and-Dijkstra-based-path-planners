@@ -1,4 +1,4 @@
-# A Dijkstra-based Path Planners
+# A* & Dijkstra-based Path Planners
 
 This repository contains MATLAB implementations of path planning algorithms based on Dijkstra's algorithm and A* algorithm for grid-based environments.
 
