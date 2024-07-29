@@ -14,21 +14,9 @@ This repository contains MATLAB implementations of path planning algorithms base
 - Visualization of the pathfinding process
 - Customizable start and goal positions
 
-## Requirements
-
-- MATLAB
-
 ## Usage
 
-1. Clone the repository:
+- Run the script:
     ```sh
-    git clone https://github.com/ErroujiOussama/A-Dijkstra-based-path-planners.git
-    ```
-2. Navigate to the directory:
-    ```sh
-    cd A-Dijkstra-based-path-planners
-    ```
-3. Run the script:
-    ```sh
-    matlab -r run
+    run.m
     ```
